@@ -8,3 +8,6 @@
 - CPU: Intel Core i7 8700k
 - RAM: 64GB
 - GPU: GTX1080Ti 11GB
+
+
+[paper]: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09233123
