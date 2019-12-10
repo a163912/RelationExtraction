@@ -1,0 +1,8 @@
+None
+FAC
+GPE
+LOC
+ORG
+PER
+VEH
+WEA
